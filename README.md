@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DeepanjaliKushwaha76
+- 👋 Hi, I’m @DeepanjaliKushwaha
 - 👀 I’m interested to Work As a  developer.
 - 🌱 I’m currently learning Asp.Net Core MVC
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m working on Projects related to ASP.Net Core mvc Web Application
 - 📫 How to reach me :kushwahadeepanjali767@gmail.com
 
 <!---
